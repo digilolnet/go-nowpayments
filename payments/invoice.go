@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/CIDgravity/go-nowpayments/core"
+	"github.com/digilolnet/go-nowpayments/core"
 	"github.com/rotisserie/eris"
 )
 

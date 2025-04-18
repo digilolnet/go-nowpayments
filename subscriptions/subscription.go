@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CIDgravity/go-nowpayments/config"
-	"github.com/CIDgravity/go-nowpayments/core"
-	recurringPayment "github.com/CIDgravity/go-nowpayments/recurring_payments"
+	"github.com/digilolnet/go-nowpayments/config"
+	"github.com/digilolnet/go-nowpayments/core"
+	recurringPayment "github.com/digilolnet/go-nowpayments/recurring_payments"
 	"github.com/rotisserie/eris"
 )
 
